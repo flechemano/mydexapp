@@ -1,6 +1,6 @@
 {
   "name": "mydexapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MyDexApp is a decentralized exchange (DEX) application built on the Ethereum blockchain. It provides users with a seamless and secure platform to trade various tokens directly from their Ethereum wallets. Powered by cutting-edge technologies and a user-friendly interface, MyDexApp revolutionizes the way users engage in decentralized finance (DeFi) by offering liquidity provision, token swaps, and more, all in one convenient platform.",
   "main": "index.js",
   "repository": {
@@ -62,4 +62,3 @@
     "prettier": "^2.5.1"
   }
 }
-
